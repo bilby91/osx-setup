@@ -7,29 +7,35 @@
 # Audio/Video
 ###############################################################################
 brew cask install vlc
+brew cask install air-server
 
-# Bitcoin
-###############################################################################
-brew cask install bitcoin-qt
-brew cask install multibit
 
 # Encryption
+###############################################################################
 brew cask install true-crypt -y
 
 # Image Media
 ###############################################################################
+brew cask install adapter
 
 # Networking
 ###############################################################################
 brew cask install wireshark        # packet sniffer
 brew cask install gas-mask         # hosts file manager
+brew cask install transmission
 
-# Productivity
+# Productivity Boosters!
 ###############################################################################
 brew cask install alfred
+brew cask install bartender
+brew cask install divvy
 
 # Social/Communication
 ###############################################################################
-brew cask install adium             # instant message client (for irc, etc.)
+brew cask install skype
+
+# Compression
+###############################################################################
+brew cask install the-unarchiver
 
 
