@@ -3,6 +3,7 @@
 Things to set up manually:
 
 Dropbox
+Google Drive
 SSH Keys
 GUI settings tweaking
 
