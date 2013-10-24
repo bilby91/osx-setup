@@ -1,7 +1,7 @@
 # OS X Ruby Setup
 
 # Assumes: 
-# + Curl has been brew installed.
+# + Curl has been installed.
 
 # Ruby Version Manager (RVM) Latest (1.21.3 as of 2013/08/25)
 # allows for multiple independed Ruby installations on the same machine.

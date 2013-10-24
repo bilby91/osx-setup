@@ -10,22 +10,25 @@ bash ${DIR}/scripts/homebrew-cask.sh
 bash ${DIR}/scripts/essential.sh
 
 # Development Software/Tools
-bash ${DIR}/scripts/editor.sh
-bash ${DIR}/scripts/shell.sh
-bash ${DIR}/scripts/git.sh
-bash ${DIR}/scripts/ide.sh
-bash ${DIR}/scripts/browser.sh
+bash ${DIR}/scripts/Development/editor.sh
+bash ${DIR}/scripts/Development/shell.sh
+bash ${DIR}/scripts/Development/git.sh
+bash ${DIR}/scripts/Development/ide.sh
+bash ${DIR}/scripts/Development/browser.sh
+bash ${DIR}/scripts/Development/extra-tools.sh
+bash ${DIR}/scripts/Development/databases.sh
 
 # Programming Environments
-bash ${DIR}/scripts/python.sh
-bash ${DIR}/scripts/python-extra.sh
-bash ${DIR}/scripts/golang.sh
-bash ${DIR}/scripts/node.sh
-bash ${DIR}/scripts/scala.sh
-bash ${DIR}/scripts/ruby.sh
+bash ${DIR}/scripts/Programming-Enviroments/python.sh
+bash ${DIR}/scripts/Programming-Enviroments/python-extra.sh
+bash ${DIR}/scripts/Programming-Enviroments/golang.sh
+bash ${DIR}/scripts/Programming-Enviroments/node.sh
+bash ${DIR}/scripts/Programming-Enviroments/scala.sh
+bash ${DIR}/scripts/Programming-Enviroments/ruby.sh
 
 # File System
-bash ${DIR}/scripts/dropbox.sh
+bash ${DIR}/scripts/File-System/dropbox.sh
+bash ${DIR}/scripts/File-System/google-drive.sh
 
 # Virtualization
 bash ${DIR}/scripts/virtualization.sh

@@ -33,9 +33,3 @@ brew cask install divvy
 # Social/Communication
 ###############################################################################
 brew cask install skype
-
-# Compression
-###############################################################################
-brew cask install the-unarchiver
-
-

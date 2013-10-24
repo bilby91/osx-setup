@@ -11,16 +11,12 @@
 brew install git
 
 # Configure git identity, aliases, and other settings.
-git config --global user.name "Martín Fernández"
+git config --global user.name  "Martín Fernández"
 git config --global user.email "fmartin91@gmail.com"
 git config --global alias.co checkout
 git config --global alias.st status
 git config --global core.editor "subl -w"
 git config --list
 
-# Install SourceTree app
+# SourceTree
 brew cask install sourcetree
-
-
-
-

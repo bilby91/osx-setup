@@ -5,16 +5,18 @@
 # + Homebrew-cask has been tapped and installed correctly.
 
 
-# Install iTerm2
+# iTerm2
 ###############################################################################
 brew cask install iterm2
 
 # Environment Customizations
 ###############################################################################
-echo -e "\n# Set the default text editor." >> ${HOME}/.bash_profile
+echo -e "\n# Set the default text editor." >> ${HOME}/.zshrc
 echo "EDITOR='subl -w'" >> ${HOME}/.bash_profile
 
-# Bash Customizations
-###############################################################################
-brew install git bash-completion
-# Installs bash completion scripts to /usr/local/etc/bash_completion.d/
+
+
+
+# Oh-my-zsh Customizations
+
+echo -e "\n# Set Oh-my-zsh plugins." >> plugins=(git brew bundler gem OSX pod rails3 rvm scala sublime web-search rbates zsh-syntax-highlighting)

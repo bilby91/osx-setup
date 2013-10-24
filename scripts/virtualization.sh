@@ -1,8 +1,12 @@
-# # OS X Vagrant Setup
+# # OS X Virtualization Setup
 
 # # Assumes: 
 # # + Homebrew has been installed correctly.
 # # + Homebrew-cask has been tapped and installed correctly.
+
+# # VMWare Fusion
+# ###############################################################################
+brew cask install vmware-fusion
 
 # # Virtualbox
 # ###############################################################################
