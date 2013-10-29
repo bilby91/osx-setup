@@ -40,10 +40,6 @@ Beginning of line and end of line shortcuts in iterm 2. iterm2 preferences -> ke
 
 iTerm Preferences -> Select Profile and then under terminal, Notifications choose Silence Bell and disable show bell icon in tabs.
 
-
-System Preferences -> Dock
-Position on Screen: Left
-
 iterm2 shortcut to switch through tabs should be alt+command+arrow to mirror sublime-text and chrome. By default, command+T is used for a new tab.
 
 Sublime settings.
