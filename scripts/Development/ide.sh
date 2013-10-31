@@ -7,7 +7,7 @@
 
 # Install RubyMine
 ###############################################################################
-brew cask install rubymine
+# brew cask install rubymine
 
 # Install Eclipse
 ###############################################################################
@@ -15,4 +15,4 @@ brew cask install Eclipse
 
 # Install Intellij Community Edition
 ###############################################################################
-brew cask install intellij-community
+# brew cask install intellij-community

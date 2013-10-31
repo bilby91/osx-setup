@@ -11,4 +11,4 @@ brew cask install dropbox
 
 # File System Symlinking
 ###############################################################################
-# TODO
+# ln -s ~/Dropbox/Apps/ohmyzsh/zshrc ~/.zshrc

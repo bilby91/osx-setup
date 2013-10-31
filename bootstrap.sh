@@ -19,8 +19,6 @@ bash ${DIR}/scripts/Development/extra-tools.sh
 bash ${DIR}/scripts/Development/databases.sh
 
 # Programming Environments
-bash ${DIR}/scripts/Programming-Enviroments/python.sh
-bash ${DIR}/scripts/Programming-Enviroments/python-extra.sh
 bash ${DIR}/scripts/Programming-Enviroments/golang.sh
 bash ${DIR}/scripts/Programming-Enviroments/node.sh
 bash ${DIR}/scripts/Programming-Enviroments/scala.sh

@@ -9,7 +9,7 @@
 ###############################################################################
 brew cask install sublime-text
 # Make 'subl' a command line shortcut for Sublime Text 2.
-ln -s "/opt/homebrew-cask/Caskroom/sublime-text/2.0.1/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
+ln -s "/opt/homebrew-cask/Caskroom/sublime-text/2.0.2/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
 
 # Install Mac Vim
 ###############################################################################
