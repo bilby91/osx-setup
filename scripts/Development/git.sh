@@ -11,7 +11,7 @@
 brew install git
 
 # Configure git identity, aliases, and other settings.
-git config --global user.name  "Martín Fernández"
+git config --global user.name  "Martin F"
 git config --global user.email "fmartin91@gmail.com"
 git config --global alias.co checkout
 git config --global alias.st status
