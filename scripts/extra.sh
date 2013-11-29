@@ -22,6 +22,7 @@ brew cask install adapter
 ###############################################################################
 brew cask install wireshark        # packet sniffer
 brew cask install transmission
+brew install aria2
 
 # Productivity Boosters!
 ###############################################################################

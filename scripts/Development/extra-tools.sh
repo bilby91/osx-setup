@@ -18,5 +18,8 @@ brew cask install kaleidoscope
 # EC2 API Tools
 brew install ec2-api-tools
 
+# AppleDoc Generator
+brew install appledoc
+
 
 
